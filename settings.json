@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FortKnightSMP.aternos.me",
-    "port": 30578,
+    "ip": "fortknightsmp.minefort.com",
+    "port": 19132,
     "version": "1.21.1",
     "try-creative": false
   },
